@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'WZAlertController_Example' do
+  pod 'WZAlertController', :path => '../'
+
+  target 'WZAlertController_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end

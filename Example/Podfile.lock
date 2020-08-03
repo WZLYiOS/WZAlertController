@@ -1,0 +1,16 @@
+PODS:
+  - WZAlertController (0.1.0)
+
+DEPENDENCIES:
+  - WZAlertController (from `../`)
+
+EXTERNAL SOURCES:
+  WZAlertController:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  WZAlertController: 43559f5bb195fc922cf4f7d57cd1882bc5959659
+
+PODFILE CHECKSUM: 5ab443c7a274b606be610d40b99123a45cbfabb5
+
+COCOAPODS: 1.9.1
